@@ -1,3 +1,4 @@
+-- add
 -- Enable HTTP extension
 create extension http with schema extensions;
 
